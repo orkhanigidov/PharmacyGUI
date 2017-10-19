@@ -1,0 +1,86 @@
+Medi club::Ü.Hacıbəyov küç. 119, Bakı::AZ1010::09:00-22:00::497-09-11
+Şax Farm::Mir-Qasımov küç. 10, Bakı::AZ1000::09:00-21:00::440-14-09
+Сhirag::Təbriz küç. 31/7, Bakı::AZ1000::09:00-22:00::489-85-62
+Azer::Asif Məhərrəmov küç. 4/66, Bakı::AZ1000::09:00-21:00::430-94-36
+Avestafarm::Asif Məhərrəmov küç. 66A, Bakı::AZ1000::09:00-22:00::430-13-74
+Аvangard::Dilarə Əliyeva küç. 243, Bakı::AZ1000::09:00-22:00::493-19-74
+Vitamin::H.Əliyev 4, mənz. 18, Bakı::AZ1000::09:00-21:00::430-00-14
+Turkesh::Naxçıvani küç. 4 B, Bakı::AZ1000::09:00-22:00::562-06-28
+Tebib::Akad.H.Əliyev küç. 82, Bakı::AZ1000::09:00-22:00::465-82-25
+Tamerlan::Yaşayış sahəsi, 40-41 məhəllə, Bakı::AZ1000::09:00-22:00::478-42-44
+Shahpharm::A.Neymətulla küç. 50, Bakı::AZ1000::09:00-22:00::441-35-45
+Semra::Ə.Rəcəbli küç. 3, Bakı::AZ1000::09:00-23:00::465-67-38
+Savalan::Təbriz küç. 56, Bakı::AZ1000::09:00-21:00::496-25-39
+Riyad Pharm::S.Vurğun küç. 172, Bakı::AZ1000::09:00-22:00::447-38-55
+Qızıl Gül::Ə.Rəcəbli küç. 5, Bakı::AZ1000::09:00-22:00::564-10-58
+Puls::Şamil Kamilov küç. 15/74, Bakı::AZ1000::09:00-21:00::429-40-71
+Prima::Alı Mustafayev küç. 1/4, Bakı::AZ1000::09:00-22:00::430-24-30
+Pharma::Şeyx Şamil küç. 4, Bakı::AZ1001::09:00-23:00::437-00-22
+Odlar Yurdu::Bakıxanov küç. 31/1, Bakı::AZ1000::09:00-23:00::449-42-20
+Ocag Dagı::Ağaoğlu Əhmədbəyov küç. 7/30, Bakı::AZ1000::09:00-22:00::496-19-98
+Nurel::Qara Qarayev prosp. 124A, Bakı::AZ1000::09:00-23:00::370-68-68
+Nur::Hadi Məhəmməd küç. 7, Bakı::AZ1000::09:00-22:00::375-64-93
+Life::M.Fətəliyev küç. 32, Bakı::AZ1000::09:00-23:00::428-12-74
+Komfort::Q.Qarayev küç. 61, Bakı::AZ1000::09:00-22:00::520-19-66
+Istanbul::F.Ağayev küç. 14, Bakı::AZ1143::09:00-22:00::511-06-82
+Irada::Z.Əhmədbəyov küç. 39A, Bakı::AZ1000::09:00-22:00::596-19-41
+Logman::A.Neymətulla küç. 37, Bakı::AZ1000::09:00-22:00::567-74-13
+Inam::Dilarə Əliyeva küç. 235, Bakı::AZ1000::09:00-21:00::498-73-76
+Faxir::Hadi Məhəmməd küç. 45, Bakı::AZ1000::09:00-21:00::370-16-72
+Fatima::Şərifzadə küç. 148K, Bakı::AZ1000::09:00-22:00::533-05-69
+Farid Farm::Haqverdiyeva küç. 11, Bakı::AZ1000::09:00-22:00::539-20-52
+Nezaket::Azərbaycan prosp. 35, Bakı::AZ1000::09:00-23:00::594-54-16
+Murad-Farm::Y.Vəzirov küç. 40/7, Bakı::AZ1000::09:00-22:00::449-72-78
+Elvin::Mir-Qasımov küç. 8, Bakı::AZ1078::09:00-21:00::441-61-75
+Elgul::Zərifə Əliyeva küç. 40, Bakı::AZ1000::09:00-22:00::492-40-87
+Elektron::S.Cabbarlı küç. 1, Bakı::AZ1000::09:00-22:00::429-78-97
+Dokta Adonis::Bakıxanov pos., O.Əfəndiyeva 1, Bakı::AZ1000::09:00-21:00::425-48-81
+Doktor::Q.Qarayev küç. 61C, Bakı::AZ1000::09:00-23:00::422-48-92
+Azerimed::M.Mirgasımov küç. 2, Bakı::AZ1000::09:00-22:00::449-46-64
+Yeni shafa::A.Şərifzadə küç. 34, Bakı::AZ1138::09:00-21:00::432-56-93
+Yeni həyat::M.Qasımov küç. 14/26, Bakı::AZ1007::09:00-21:00::441-53-41
+Trast med::Şərifzadə küç. 78, Bakı::AZ1100::09:00-22:00::434-24-26
+Şok::Ə.Haqverdiyev küç. 13, Bakı::AZ1065::09:00-23:00::538-33-42
+Səma::8 mk/r Ş.Məmmədova küç. 6E, Bakı::AZ1124::09:00-22:00::562-61-16
+Səhhət::Z.Xəlilov küç. 48A, Bakı::AZ1141::09:00-23:00::538-34-28
+Saf::M.Qasımova küç. 1, Bakı::AZ1022::09:00-22:00::595-49-35
+Biofarm::İstiqlaliyyət küç. 49/7, Bakı::AZ1001::09:00-23:00::492-70-64
+Rüfət::Nizami küç. 121, Bakı::AZ1010::09:00-21:00::493-92-51
+Sabah::Bayıl qəs. Q.Abbasov küç. 27, Bakı::AZ1003::09:00-21:00::491-25-20
+Retard::Talıblı küç. 38, Bakı::AZ1000::09:00-22:00::433-70-91
+Real::M.Mextizadə küç. 8, Bakı::AZ1025::09:00-22:00::490-73-10
+Planeta::Ə.Rəcəbli küç. 3 mən.1, Bakı::AZ1072::09:00-21:00::564-75-95
+Olimp::Ə.Haqverdiyev küç. 21, Bakı::AZ1065::09:00-21:00::510-71-35
+Novruz::Sarayeva küç. 8C, Bakı::AZ1049::09:00-22:00::376-19-75
+Nəqşi cahan::Bülbül prosp. 59, Bakı::AZ1014::09:00-23:00::497-36-34
+Naturalist::Ə.Cavad küç. 22, Bakı::AZ1001::09:00-23:00::492-23-17
+Mega::Ə.Haqverdiyev küç. 13/30, Bakı::AZ1065::09:00-23:00::538-30-26
+M.company::Ə.Naxçıvani küç. 6, Bakı::AZ1130::09:00-23:00::436-17-48
+Lyuks::Ağa Neymətulla küç. 23, Bakı::AZ1033::09:00-21:00::567-59-20
+Kaspian::Bül-Bül prosp. 10, Bakı::AZ1000::09:00-22:00::498-78-94
+İzmir::Y.Səfərov küç. 9/16, Bakı::AZ1025::09:00-22:00::490-61-24
+İslam::Yeni Yasamal Ə.Əhmədov küç. Bakı::AZ1122::09:00-23:00::434-03-85
+İntermed::Y.Səfərov küç. 18, Bakı::AZ1025::09:00-22:00::496-43-43
+Avromed::A.Bakıxanov küç.44, Bakı::AZ1007::09:00-21:00::440-37-83
+Hippokrat::Nizami küç. 121, Bakı::AZ1010::09:00-22:00::493-58-40
+Gürzə::A.Cəlilov küç. 5, Bakı::AZ1025::09:00-22:00::490-37-35
+Günəş::Azadlıq prosp. 125, Bakı::AZ1007::09:00-22:00::441-57-92
+Farmay::3-cü mkr. Dairəsi Yanında, Bakı::AZ1108::09:00-21:00::431-23-69
+Farma::R.Behbudov küç. 46, Bakı::AZ1014::09:00-23:00::493-88-88
+Europe::Ə.Cavad küç. 20, Bakı::AZ1001::09:00-23:00::492-33-71
+Europa plus::H.Zərdabi küç. 89, Bakı::AZ1011::09:00-23:00::447-47-55
+Eskulap::R.Beybutov küç. 42, Bakı::AZ1014::09:00-23:00::493-52-48
+Elmlər::Ə.Ələkbərov küç. 558, Bakı::AZ1073::09:00-22:00::538-50-38
+Dolofen::Mayakovskiy küç. 10, Bakı::AZ1154::09:00-21:00::567-93-26
+Dokta::M. Rüstəmov küç. 22, Bakı::AZ100::09:00-22:00::570-78-42
+Doctor Lemoni::M.Hadi küç. 7, Bakı::AZ1142::09:00-22:00::375-64-93
+Depo::H.Cavid prosp. 566/57, Bakı::AZ1141::09:00-21:00::537-13-37
+Çeburaşka::Ş.Qurbanov küç. 17, Bakı::AZ1009::09:00-23:00::596-03-43
+Buta::X.Cəfər küç. 3006 məhəllə, Bakı::AZ1130::09:00-22:00::436-31-54
+Bənövşə::İçəri Şəhər, V.Məmmədov küç. 4, Bakı::AZ1000::09:00-22:00::492-29-53
+Aspirin::Nizami küç. 85A, Bakı::AZ1010::09:00-21:00::493-61-41
+Afrodita::Sabunçu rayonu, Neftçilər və Y.Əliyev kəsişmə, Bakı::AZ1040::09:00-22:00::425-11-54
+Glukoza::A.Şərifzadə küç. 182b, Bakı::AZ1138::09:00-23:00::433-74-34
+Sahil::Bül-Bül prosp. 7, Bakı::AZ1069::09:00-21:00::598-52-79
+Aura::H.Əliyev küç. 29-cu məhəllə, Sumqayıt::AZ5000::09:00-22:00::649-15-69
+Şəfa::F.X. Xoyski prosp.106, Bakı::AZ1072::09:00-21:00::564-39-57
